@@ -1,1 +1,1 @@
-# Ashis-AI
+# Divine AI-Data Science
